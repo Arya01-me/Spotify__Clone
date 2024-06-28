@@ -1,0 +1,26 @@
+.sidebar {
+
+  
+    
+    
+    flex: 0.2;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    min-width: 210px;
+    padding-left: 15px;
+    padding-right: 10px;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+}
+.app_logo {
+    height: 70px;
+    width: 162px;
+    padding: 12px;
+    margin-right: auto;
+}
+
+.sidebar > hr {
+    border: solid 1px rgb(88, 88, 88);
+    width: 87%;
+    margin: 15px auto;
+}
